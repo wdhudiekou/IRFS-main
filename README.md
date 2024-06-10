@@ -97,7 +97,9 @@ If this work has been helpful to you, please feel free to cite our paper!
 @InProceedings{Wang_2023_IF,
 	author = {Di, Wang and Jinyuan, Liu and Risheng Liu and Xin, Fan},
 	title = {An interactively reinforced paradigm for joint infrared-visible image fusion and saliency object detection},
-	booktitle = {Information Fusion},
+	journal = {Information Fusion},
+	volume = {98},
+	pages = {101828},
 	year = {2023}
 }
 ```
